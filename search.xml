@@ -4,7 +4,8 @@
     <title>Hello World</title>
     <url>/2022/01/05/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><span id="more"></span> 
+<h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
@@ -29,7 +30,8 @@
     <title>2022年的第一场雨</title>
     <url>/2022/01/05/2022%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%A8/</url>
     <content><![CDATA[<h1 id="雨和雪"><a href="#雨和雪" class="headerlink" title="雨和雪"></a>雨和雪</h1><p>  北方又开始下雨，上海今天只是下了小雨</p>
-<h1 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h1><p>  时间飞快的行驶到2022年这一站。</p>
+<h1 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h1><span id="more"></span> 
+<p>  时间飞快的行驶到2022年这一站。</p>
 <p>  对于人类来说，或许是生命的80分之一，对地球来说只是一瞬间。</p>
 <p>  更别说对于整个宇宙，时间只是另外一种虚无缥缈。</p>
 <h1 id="疫情后时代"><a href="#疫情后时代" class="headerlink" title="疫情后时代"></a>疫情后时代</h1><p>  美国每天新增新冠感染图片100万，已经当作流感一样。</p>
