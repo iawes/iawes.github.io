@@ -43,7 +43,25 @@
         <category>随笔</category>
       </categories>
       <tags>
-        <tag>没头没脑</tag>
+        <tag>雨</tag>
+        <tag>雪</tag>
+        <tag>时间</tag>
+        <tag>疫情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>python 三大神器</title>
+    <url>/2022/01/07/python-%E4%B8%89%E5%A4%A7%E7%A5%9E%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="Python原来有三大神器"><a href="#Python原来有三大神器" class="headerlink" title="Python原来有三大神器"></a>Python原来有三大神器</h1><p>以前只知道pip，最近才知道还有virtualenv和fabric。virtualenv真的是好用，可以保证各种开发环境不冲突，fabric就不需要要了，毕竟是运维用的。</p>
+<h1 id="关于又一次学习"><a href="#关于又一次学习" class="headerlink" title="关于又一次学习"></a>关于又一次学习</h1><p>最近github私有仓库不收费之后，又来了兴趣。准备继续拾起Python学习。github上其实有很多好的爬虫项目，lianjia房源分析的就有不少。感觉很多房地产类公众号就是利用的这些爬虫资源，然后把总结的图文信息再发送到他们自己的公众号上，这样其实每个人都可以做。</p>
+<h1 id="需求驱动"><a href="#需求驱动" class="headerlink" title="需求驱动"></a>需求驱动</h1><p>所以，可以结合自己的需求，同时利用开源的代码从爬虫开始先学习一下基本的。学习只有和需求实战结合起来才有效率，不然根本坚持不下去。就像去年，为了从公租房抢房，花了一个多月用JS写了一个chrome插件抢房子。其实JS和插件都没搞过，最后也能凑合用了。要是毫无目的的去学习，估计永远也学不会。</p>
+]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>神器</tag>
+        <tag>动力</tag>
       </tags>
   </entry>
 </search>

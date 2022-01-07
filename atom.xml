@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-05T09:14:50.232Z</updated>
+  <updated>2022-01-07T07:54:35.907Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>python 三大神器</title>
+    <link href="http://example.com/2022/01/07/python-%E4%B8%89%E5%A4%A7%E7%A5%9E%E5%99%A8/"/>
+    <id>http://example.com/2022/01/07/python-%E4%B8%89%E5%A4%A7%E7%A5%9E%E5%99%A8/</id>
+    <published>2022-01-07T07:50:23.000Z</published>
+    <updated>2022-01-07T07:54:35.907Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Python原来有三大神器"><a href="#Python原来有三大神器" class="headerlink" title="Python原来有三大神器"></a>Python原来有三大神器</h1><p>以前只知道pip，最近才知道还有virtualenv和fabric。virtualenv真的是好用，可以保证各种开发环境不冲突，fabric就不需要要了，毕竟是运维用的。</p><h1 id="关于又一次学习"><a href="#关于又一次学习" class="headerlink" title="关于又一次学习"></a>关于又一次学习</h1><p>最近github私有仓库不收费之后，又来了兴趣。准备继续拾起Python学习。github上其实有很多好的爬虫项目，lianjia房源分析的就有不少。感觉很多房地产类公众号就是利用的这些爬虫资源，然后把总结的图文信息再发送到他们自己的公众号上，这样其实每个人都可以做。</p><h1 id="需求驱动"><a href="#需求驱动" class="headerlink" title="需求驱动"></a>需求驱动</h1><p>所以，可以结合自己的需求，同时利用开源的代码从爬虫开始先学习一下基本的。学习只有和需求实战结合起来才有效率，不然根本坚持不下去。就像去年，为了从公租房抢房，花了一个多月用JS写了一个chrome插件抢房子。其实JS和插件都没搞过，最后也能凑合用了。要是毫无目的的去学习，估计永远也学不会。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Python原来有三大神器&quot;&gt;&lt;a href=&quot;#Python原来有三大神器&quot; class=&quot;headerlink&quot; title=&quot;Python原来有三大神器&quot;&gt;&lt;/a&gt;Python原来有三大神器&lt;/h1&gt;&lt;p&gt;以前只知道pip，最近才知道还有virtualenv</summary>
+      
+    
+    
+    
+    <category term="Python" scheme="http://example.com/categories/Python/"/>
+    
+    
+    <category term="神器" scheme="http://example.com/tags/%E7%A5%9E%E5%99%A8/"/>
+    
+    <category term="动力" scheme="http://example.com/tags/%E5%8A%A8%E5%8A%9B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2022年的第一场雨</title>
     <link href="http://example.com/2022/01/05/2022%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%A8/"/>
     <id>http://example.com/2022/01/05/2022%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%A8/</id>
     <published>2022-01-05T08:31:22.000Z</published>
-    <updated>2022-01-05T09:14:50.232Z</updated>
+    <updated>2022-01-07T07:55:01.935Z</updated>
     
     <content type="html"><![CDATA[<h1 id="雨和雪"><a href="#雨和雪" class="headerlink" title="雨和雪"></a>雨和雪</h1><p>  北方又开始下雨，上海今天只是下了小雨</p><h1 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h1><span id="more"></span> <p>  时间飞快的行驶到2022年这一站。</p><p>  对于人类来说，或许是生命的80分之一，对地球来说只是一瞬间。</p><p>  更别说对于整个宇宙，时间只是另外一种虚无缥缈。</p><h1 id="疫情后时代"><a href="#疫情后时代" class="headerlink" title="疫情后时代"></a>疫情后时代</h1><p>  美国每天新增新冠感染图片100万，已经当作流感一样。</p><p>  国内又到了冬天爆发的时候，西安这次的防控妥妥的反面教材，已经成为武汉之后最严重的一次。</p><p>  每个人的生活都在渐渐习惯防疫，习惯在压力中生存。</p><h1 id="回想"><a href="#回想" class="headerlink" title="回想"></a>回想</h1><p>  从西安离开已经5年多，不过记忆依然还能共鸣。</p>]]></content>
     
@@ -34,7 +60,13 @@
     <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="没头没脑" scheme="http://example.com/tags/%E6%B2%A1%E5%A4%B4%E6%B2%A1%E8%84%91/"/>
+    <category term="雨" scheme="http://example.com/tags/%E9%9B%A8/"/>
+    
+    <category term="雪" scheme="http://example.com/tags/%E9%9B%AA/"/>
+    
+    <category term="时间" scheme="http://example.com/tags/%E6%97%B6%E9%97%B4/"/>
+    
+    <category term="疫情" scheme="http://example.com/tags/%E7%96%AB%E6%83%85/"/>
     
   </entry>
   
